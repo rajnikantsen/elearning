@@ -1,0 +1,245 @@
+﻿
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Group Page - Altura Sphere Technologies</title>
+    <style>
+        body {
+            margin: 0;
+            font-family: 'Arial', sans-serif;
+            background: linear-gradient(135deg, #4A00E0, #8E2DE2);
+            color: #333;
+            /*    display: flex;
+*/ justify-content: center;
+            align-items: center;
+            /*padding: 20px;*/
+        }
+
+        .header {
+            background-color: #2b6cb0;
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 20px auto;
+            padding: 20px;
+        }
+
+        .group-info {
+            display: flex;
+            justify-content: space-between;
+            background: #fff;
+            padding: 20px;
+            box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+            border-radius: 10px;
+            margin-bottom: 20px;
+        }
+
+            .group-info .details, .group-info .actions {
+                flex: 1;
+                margin: 0 10px;
+            }
+
+        .details h1 {
+            font-size: 24px;
+            color: #2b6cb0;
+        }
+
+        .details p {
+            font-size: 16px;
+            color: #555;
+        }
+
+        .actions button {
+            background: #2b6cb0;
+            color: white;
+            padding: 10px 20px;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            margin: 10px 0;
+            font-size: 14px;
+        }
+
+            .actions button:hover {
+                background: #1a5080;
+            }
+
+        .tabs {
+            display: flex;
+            margin-bottom: 20px;
+        }
+
+            .tabs button {
+                flex: 1;
+                padding: 15px;
+                border: none;
+                background: #f3f4f6;
+                color: #555;
+                cursor: pointer;
+                font-size: 16px;
+            }
+
+                .tabs button.active {
+                    background: #2b6cb0;
+                    color: white;
+                }
+
+        .tab-content {
+            background: #fff;
+            padding: 20px;
+            box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+            border-radius: 10px;
+        }
+
+        .members {
+            display: flex;
+            flex-wrap: wrap;
+        }
+
+        .member-card {
+            width: 150px;
+            text-align: center;
+            margin: 10px;
+        }
+
+            .member-card img {
+                width: 80px;
+                height: 80px;
+                border-radius: 50%;
+                margin-bottom: 10px;
+            }
+
+        .discussion-board textarea {
+            width: 100%;
+            height: 100px;
+            margin-bottom: 10px;
+            padding: 10px;
+            border: 1px solid #ddd;
+            border-radius: 5px;
+        }
+
+        .discussion-board button {
+            background: #2b6cb0;
+            color: white;
+            padding: 10px 20px;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+
+        .resources-list {
+            list-style: none;
+            padding: 0;
+        }
+
+            .resources-list li {
+                background: #f3f4f6;
+                padding: 10px;
+                margin-bottom: 10px;
+                border-radius: 5px;
+            }
+
+                .resources-list li:hover {
+                    background: #e2e8f0;
+                }
+    </style>
+</head>
+<body>
+
+    <div class="header">
+        <h1>Group: Advanced Coding Team</h1>
+        <p>Welcome to the collaborative space for advanced learners.</p>
+    </div>
+
+    <div class="container">
+
+        <!-- Group Info -->
+        <div class="group-info">
+            <div class="details">
+                <h1>About This Group</h1>
+                <p>This group is dedicated to advanced learners focusing on coding, problem-solving, and collaborative learning.</p>
+            </div>
+            <div class="actions">
+                <button>Join Group</button>
+                <button>Leave Group</button>
+                <button>Create Group</button>
+            </div>
+        </div>
+
+        <!-- Tabs -->
+        <div class="tabs">
+            <button class="tab-button active" onclick="showTab('members')">Members</button>
+            <button class="tab-button" onclick="showTab('discussion')">Discussions</button>
+            <button class="tab-button" onclick="showTab('resources')">Resources</button>
+        </div>
+
+        <!-- Tab Content -->
+        <div id="members" class="tab-content active">
+            <h2>Group Members</h2>
+            <div class="members">
+                <div class="member-card">
+                    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSy2DM2LQYuk8rDMMb-vL5xFW83DdgJkB0fUQ&s" alt="Member 1">
+                    <p>John Doe</p>
+                </div>
+                <div class="member-card">
+                    <img src="https://cdn-icons-png.flaticon.com/512/9217/9217625.png" alt="Member 2">
+                    <p>Jane Smith</p>
+                </div>
+                @*<div class="member-card">
+                    <img src="https://via.placeholder.com/80" alt="Member 3">
+                    <p>Emily Brown</p>
+                </div>*@
+                <!-- Add more member cards -->
+            </div>
+        </div>
+
+        <div id="discussion" class="tab-content">
+            <h2>Discussion Board</h2>
+            <textarea placeholder="Type your message..."></textarea>
+            <button>Post Message</button>
+            <div class="discussion-messages">
+                <p><b>John:</b> Welcome to the group!</p>
+                <p><b>Jane:</b> Excited to learn!</p>
+            </div>
+        </div>
+
+        <div id="resources" class="tab-content">
+            <h2>Shared Resources</h2>
+            <ul class="resources-list">
+                <li>JavaScript Fundamentals.pdf</li>
+                <li>React for Beginners.ppt</li>
+                <li>Advanced Python Programming.pdf</li>
+            </ul>
+        </div>
+    </div>
+
+    <script>
+        function showTab(tabId) {
+            // Hide all tab content
+            document.querySelectorAll('.tab-content').forEach(tab => {
+                tab.style.display = 'none';
+            });
+
+            // Remove active class from all buttons
+            document.querySelectorAll('.tab-button').forEach(button => {
+                button.classList.remove('active');
+            });
+
+            // Show selected tab content and set active button
+            document.getElementById(tabId).style.display = 'block';
+            document.querySelector(`.tab-button[onclick="showTab('${tabId}')"]`).classList.add('active');
+        }
+
+        // Show the first tab by default
+        showTab('members');
+    </script>
+
+</body>
+</html>
+

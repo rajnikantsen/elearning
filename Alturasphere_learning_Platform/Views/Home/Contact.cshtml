@@ -1,0 +1,208 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact Us - Altura Sphere Technologies</title>
+    <link rel="stylesheet" href="styles.css">
+    <style>
+        /* General Styles */
+body {
+    margin: 0;
+    font-family: 'Arial', sans-serif;
+    background: linear-gradient(135deg, #4A00E0, #8E2DE2);
+    color: #333;
+/*    display: flex;
+*/    justify-content: center;
+    align-items: center;
+    /*padding: 20px;*/
+}
+
+/* Contact Container */
+.contact-container {
+    width: 90%;
+    max-width: 1200px;
+    background: #fff;
+    border-radius: 10px;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.2);
+    animation: fadeIn 1s ease-in-out;
+    overflow: hidden;
+}
+
+/* Header Section */
+.contact-header {
+    text-align: center;
+    padding: 20px;
+    background: #4A00E0;
+    color: #fff;
+}
+
+.contact-header h1 {
+    font-size: 36px;
+    margin-bottom: 10px;
+}
+
+.contact-header p {
+    font-size: 16px;
+    margin: 0;
+}
+
+/* Info Section */
+.contact-info {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 20px;
+    background: #f9f9f9;
+    gap: 20px;
+}
+
+.info-card {
+    flex: 1 1 calc(50% - 40px);
+    background: #fff;
+    border-radius: 8px;
+    padding: 20px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s;
+}
+
+.info-card:hover {
+    transform: translateY(-10px);
+}
+
+/* Contact Form Section */
+.contact-form {
+    padding: 20px;
+    text-align: center;
+    background: #4A00E0;
+    color: #fff;
+}
+
+.contact-form h2 {
+    font-size: 28px;
+    margin-bottom: 20px;
+}
+
+/* Form Styles */
+form {
+    max-width: 600px;
+    margin: 0 auto;
+    text-align: left;
+}
+
+.form-group {
+    position: relative;
+    margin-bottom: 20px;
+}
+
+.form-group input,
+.form-group textarea {
+    width: 100%;
+    padding: 10px;
+    font-size: 16px;
+    border: none;
+    border-bottom: 2px solid #ddd;
+    outline: none;
+    background: none;
+    transition: border-color 0.3s ease;
+    color: #fff;
+}
+
+.form-group input:focus,
+.form-group textarea:focus {
+    border-color: #fff;
+}
+
+.form-group label {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    font-size: 16px;
+    color: #ddd;
+    pointer-events: none;
+    transition: transform 0.2s ease, font-size 0.2s ease, color 0.2s ease;
+}
+
+.form-group input:focus + label,
+.form-group textarea:focus + label,
+.form-group input:not(:placeholder-shown) + label,
+.form-group textarea:not(:placeholder-shown) + label {
+    transform: translateY(-20px);
+    font-size: 12px;
+    color: #fff;
+}
+
+/* Submit Button */
+.contact-btn {
+    width: 100%;
+    padding: 10px;
+    font-size: 18px;
+    background: #fff;
+    color: #4A00E0;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background 0.3s ease, transform 0.2s ease;
+}
+
+.contact-btn:hover {
+    background: #ddd;
+    transform: scale(1.05);
+}
+
+/* Keyframe Animations */
+@@keyframes fadeIn {
+    from {
+        opacity: 0;
+        transform: translateY(30px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+    </style>
+</head>
+<body>
+    <div class="contact-container">
+        <header class="contact-header">
+            <h1>Contact Us</h1>
+            <p>We’d love to hear from you! Get in touch with Altura Sphere Technologies today.</p>
+        </header>
+        <section class="contact-info">
+            <div class="info-card">
+                <h2>Our Office</h2>
+                <p>Altura Sphere Technologies Private Limited</p>
+                <p>123 Innovation Lane, Tech City</p>
+                <p>State, Country, ZIP Code</p>
+                <p><strong>Phone:</strong> +91 98765 43210</p>
+                <p><strong>Email:</strong> contact@alturasphere.com</p>
+            </div>
+            <div class="info-card">
+                <h2>Office Hours</h2>
+                <p>Monday to Friday: 9:00 AM - 6:00 PM</p>
+                <p>Saturday: 10:00 AM - 2:00 PM</p>
+                <p>Sunday: Closed</p>
+            </div>
+        </section>
+        <section class="contact-form">
+            <h2>Send Us a Message</h2>
+            <form action="#" method="POST">
+                <div class="form-group">
+                    <input type="text" id="name" name="name" required>
+                    <label for="name">Your Name</label>
+                </div>
+                <div class="form-group">
+                    <input type="email" id="email" name="email" required>
+                    <label for="email">Your Email</label>
+                </div>
+                <div class="form-group">
+                    <textarea id="message" name="message" rows="5" required></textarea>
+                    <label for="message">Your Message</label>
+                </div>
+                <button type="submit" class="contact-btn">Send Message</button>
+            </form>
+        </section>
+    </div>
+</body>
+</html>

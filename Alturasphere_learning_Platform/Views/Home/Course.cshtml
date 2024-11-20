@@ -1,0 +1,161 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>E-Learning Courses</title>
+    <link rel="stylesheet" href="styles.css">
+    <style>
+        /* General Styles */
+        body {
+            font-family: 'Arial', sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f3f4f6;
+            color: #333;
+        }
+
+        header {
+            text-align: center;
+            padding: 20px;
+            background: linear-gradient(to right, #6a11cb, #2575fc);
+            color: white;
+            box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+        }
+
+            header h1 {
+                font-size: 2.5em;
+                margin-bottom: 10px;
+            }
+
+            header p {
+                font-size: 1.2em;
+                margin-top: 0;
+            }
+
+        /* Course Container */
+        .course-container {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            padding: 20px;
+            gap: 20px;
+        }
+
+        /* Course Card */
+        .course-card {
+            width: 300px;
+            background: white;
+            border-radius: 10px;
+            box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+            overflow: hidden;
+            transform: scale(1);
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+        }
+
+            .course-card:hover {
+                transform: scale(1.05);
+                box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.2);
+            }
+
+            .course-card img {
+                width: 100%;
+                height: 200px;
+                object-fit: cover;
+            }
+
+        .course-info {
+            padding: 15px;
+            text-align: center;
+        }
+
+            .course-info h2 {
+                font-size: 1.5em;
+                color: #333;
+                margin: 10px 0;
+            }
+
+            .course-info p {
+                font-size: 1em;
+                color: #555;
+                margin: 10px 0;
+            }
+.enroll-btn {
+    display: inline-block;
+    padding: 10px 20px;
+    background: linear-gradient(to right, #6a11cb, #2575fc);
+    color: white;
+    text-decoration: none; /* Removes underline from link */
+    border-radius: 20px;
+    cursor: pointer;
+    transition: background 0.3s ease;
+}
+
+.enroll-btn:hover {
+    background: linear-gradient(to right, #2575fc, #6a11cb);
+}
+
+        /* Footer */
+        /*.footer {
+            text-align: center;
+            padding: 15px;
+            background: #333;
+            color: white;
+        }*/
+
+    </style>
+    <script>
+        // Adding animations to the "Enroll Now" button
+        document.querySelectorAll('.enroll-btn').forEach(button => {
+            button.addEventListener('click', () => {
+                alert('You clicked Enroll! You will now be redirected to the registration page.');
+                window.location.href = '/register'; // Replace with your registration page URL
+            });
+        });
+
+    </script>
+</head>
+<body>
+    <header class="header">
+        <h1>E-Learning Courses</h1>
+        <p>Explore a variety of courses to enhance your skills!</p>
+    </header>
+    <main class="course-container">
+        <!-- Course Card 1 -->
+        <div class="course-card">
+            <img src="https://images.surferseo.art/9602bc4b-cfc4-410e-b291-611d478c9d6a.png" alt="Course 1">
+            <div class="course-info">
+                <h2>Web Development</h2>
+                <p>Learn to build websites with HTML, CSS, and JavaScript.</p>
+                <a href="@Url.Action("Registration","Home")" class="enroll-btn">Enroll Now</a>
+            </div>
+        </div>
+
+        <!-- Course Card 2 -->
+        <div class="course-card">
+            <img src="https://cloudinary.hbs.edu/hbsit/image/upload/s--I2Gu66-p--/f_auto,c_fill,h_375,w_750,/v20200101/57C255C00BF4E0FB67F6DA704E94003B.jpg" alt="Course 2">
+            <div class="course-info">
+                <h2>Data Science</h2>
+                <p>Master data analysis and machine learning techniques.</p>
+                <a href="@Url.Action("Registration","Home")" class="enroll-btn">Enroll Now</a>
+            </div>
+        </div>
+
+        <!-- Course Card 3 -->
+        <div class="course-card">
+            <img src="https://www.tranktechnologies.com/blog/wp-content/uploads/2023/01/App-Development-1.png" alt="Course 3">
+            <div class="course-info">
+                <h2>Mobile App Development</h2>
+                <p>Build amazing mobile apps with Flutter or React Native.</p>
+                <a href="@Url.Action("Registration","Home")" class="enroll-btn">Enroll Now</a>
+            </div>
+        </div>
+    </main>
+
+    @*<footer class="footer">
+        <p>&copy; 2024 E-Learning Platform. All rights reserved.</p>
+    </footer>*@
+
+    <script src="scripts.js"></script>
+</body>
+</html>

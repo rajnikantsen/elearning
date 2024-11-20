@@ -1,0 +1,226 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>E-Learning Training and Internship</title>
+    <link rel="stylesheet" href="style.css">
+    <style>
+        /* General Styling */
+        body {
+            /*font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;*/
+            background: linear-gradient(180deg, #f3f4f6, #e0e7ff);
+            margin: 0;
+            font-family: 'Arial', sans-serif;
+/*            background: linear-gradient(135deg, #4A00E0, #8E2DE2);
+*/            color: #333;
+            /*    display: flex;
+*/ justify-content: center;
+            align-items: center;
+        }
+
+        /* Hero Section */
+        .hero {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 50px;
+            background: #4c6ef5;
+            color: white;
+        }
+
+        .hero-content {
+            max-width: 50%;
+        }
+
+            .hero-content h1 {
+                font-size: 3rem;
+                margin-bottom: 20px;
+            }
+
+            .hero-content .btn {
+                background: #f59e0b;
+                color: white;
+                padding: 10px 20px;
+                text-decoration: none;
+                border-radius: 5px;
+            }
+
+        .hero-image img {
+            width: 90%;
+            border-radius: 10px;
+        }
+
+        /* Syllabus Section */
+        .syllabus {
+            padding: 50px;
+            background: white;
+            text-align: center;
+        }
+
+        .syllabus-container {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 20px;
+            justify-content: center;
+        }
+
+        .syllabus-card {
+            background: #e2e8f0;
+            padding: 20px;
+            border-radius: 10px;
+            width: 300px;
+            box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+        }
+
+        /* Features Section */
+        .features {
+            padding: 50px;
+            background: #e0f7fa;
+            text-align: center;
+        }
+
+        .feature-cards {
+            display: flex;
+            justify-content: space-around;
+            gap: 20px;
+        }
+
+        .feature-card {
+            background: white;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+            text-align: center;
+            width: 300px;
+        }
+
+        .feature-card img {
+            width:60%;
+            height:60%;
+        }
+        /* Projects Section */
+        .internship-projects {
+            padding: 50px;
+            background: #edf2f7;
+            text-align: center;
+        }
+
+        .projects-container {
+            display: flex;
+            justify-content: space-around;
+            flex-wrap: wrap;
+            gap: 20px;
+        }
+
+        .project-card {
+            background: #fef3c7;
+            padding: 20px;
+            border-radius: 10px;
+            width: 300px;
+            box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+        }
+
+    </style>
+</head>
+<body>
+    <!-- Hero Section -->
+    <section class="hero">
+        <div class="hero-content">
+            <h1>E-Learning Training & Internship</h1>
+            <p>Kickstart your career with comprehensive training and hands-on internships designed to make you job-ready.</p>
+            <a href="#syllabus" class="btn">Explore Courses</a>
+        </div>
+        <div class="hero-image">
+            <img src="https://elearningindustry.com/wp-content/uploads/2018/06/10-elearning-platforms-you-can-use-for-online-courses.jpg" alt="Training and Internship">
+        </div>
+    </section>
+
+    <!-- Syllabus Section -->
+    <section id="syllabus" class="syllabus">
+        <h2>Program Syllabus</h2>
+        <div class="syllabus-container">
+            <div class="syllabus-card">
+                <h3>Web Development</h3>
+                <ul>
+                    <li>HTML, CSS, JavaScript</li>
+                    <li>Responsive Design</li>
+                    <li>Frontend Frameworks</li>
+                    <li>Backend Development</li>
+                </ul>
+            </div>
+            <div class="syllabus-card">
+                <h3>Data Science</h3>
+                <ul>
+                    <li>Python Programming</li>
+                    <li>Data Analysis</li>
+                    <li>Machine Learning</li>
+                    <li>Data Visualization</li>
+                </ul>
+            </div>
+            <div class="syllabus-card">
+                <h3>Mobile App Development</h3>
+                <ul>
+                    <li>Flutter & Dart</li>
+                    <li>iOS & Android Development</li>
+                    <li>API Integration</li>
+                    <li>Publishing Apps</li>
+                </ul>
+            </div>
+            <div class="syllabus-card">
+                <h3>AI & Machine Learning</h3>
+                <ul>
+                    <li>Deep Learning</li>
+                    <li>NLP</li>
+                    <li>AI Model Deployment</li>
+                    <li>Real-World Projects</li>
+                </ul>
+            </div>
+        </div>
+    </section>
+
+    <!-- Features Section -->
+    <section class="features">
+        <h2>Why Join Us?</h2>
+        <div class="feature-cards">
+            <div class="feature-card">
+                <img src="https://miro.medium.com/v2/resize:fit:1400/1*u4EBes6Muu2fy7iM8igMug.jpeg" alt="Feature 1">
+                <h3>Hands-On Projects</h3>
+                <p>Work on real-world projects to gain practical experience.</p>
+            </div>
+            <div class="feature-card">
+                <img src="https://www.niyog.co/wp-content/uploads/2024/09/mentor-cover-mobile-min.png" alt="Feature 2">
+                <h3>Expert Mentorship</h3>
+                <p>Get guidance from industry professionals throughout the program.</p>
+            </div>
+            <div class="feature-card">
+                <img src="https://img.freepik.com/free-vector/online-certification_23-2148570432.jpg" alt="Feature 3">
+                <h3>Certification</h3>
+                <p>Earn recognized certifications upon course completion.</p>
+            </div>
+        </div>
+    </section>
+
+    <!-- Internship Projects Section -->
+    @*<section class="internship-projects">
+        <h2>Internship Projects</h2>
+        <p>Take part in live projects to gain job-ready skills.</p>
+        <div class="projects-container">
+            <div class="project-card">
+                <h3>E-Commerce Platform</h3>
+                <p>Develop a scalable e-commerce application from scratch.</p>
+            </div>
+            <div class="project-card">
+                <h3>Chat Application</h3>
+                <p>Build a real-time communication platform using modern technologies.</p>
+            </div>
+            <div class="project-card">
+                <h3>Data Analysis Dashboard</h3>
+                <p>Create dashboards with interactive visualizations and insights.</p>
+            </div>
+        </div>
+    </section>*@
+</body>
+</html>

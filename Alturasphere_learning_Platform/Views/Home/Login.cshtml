@@ -1,0 +1,172 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login Page</title>
+    <link rel="stylesheet" href="styles.css">
+    <style>
+        /* General Styles */
+body {
+    margin: 0;
+    font-family: 'Arial', sans-serif;
+    /*display: flex;*/
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background: linear-gradient(135deg, #4A00E0, #8E2DE2);
+}
+
+/* Login Container */
+.login-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+/* Login Card */
+.login-card {
+    background: #fff;
+    padding: 40px;
+    width: 400px;
+    border-radius: 10px;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.2);
+    text-align: center;
+    animation: slideIn 1s ease-out;
+}
+
+/* Login Title and Subtitle */
+.login-title {
+    font-size: 28px;
+    font-weight: bold;
+    color: #4A00E0;
+    margin-bottom: 10px;
+}
+
+.login-subtitle {
+    font-size: 14px;
+    color: #666;
+    margin-bottom: 20px;
+}
+
+/* Form Group */
+.form-group {
+    position: relative;
+    margin-bottom: 30px;
+}
+
+.form-group input {
+    width: 100%;
+    padding: 10px;
+    font-size: 16px;
+    border: none;
+    border-bottom: 2px solid #ddd;
+    outline: none;
+    background: none;
+    transition: border-color 0.3s ease;
+}
+
+.form-group input:focus {
+    border-color: #4A00E0;
+}
+
+.form-group label {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    font-size: 16px;
+    color: #aaa;
+    pointer-events: none;
+    transition: transform 0.2s ease, font-size 0.2s ease;
+}
+
+.form-group input:focus + label,
+.form-group input:not(:placeholder-shown) + label {
+    transform: translateY(-20px);
+    font-size: 12px;
+    color: #4A00E0;
+}
+
+.form-line {
+    display: block;
+    height: 2px;
+    width: 0;
+    background: #4A00E0;
+    transition: width 0.3s ease;
+}
+
+.form-group input:focus ~ .form-line {
+    width: 100%;
+}
+
+/* Login Button */
+.login-btn {
+    width: 100%;
+    padding: 10px;
+    font-size: 18px;
+    color: #fff;
+    background: #4A00E0;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background 0.3s ease, transform 0.2s ease;
+}
+
+.login-btn:hover {
+    background: #8E2DE2;
+    transform: scale(1.05);
+}
+
+/* Forgot Password */
+.forgot-password {
+    margin-top: 20px;
+}
+
+.forgot-password a {
+    color: #4A00E0;
+    text-decoration: none;
+    transition: color 0.2s ease;
+}
+
+.forgot-password a:hover {
+    color: #8E2DE2;
+}
+
+/* Keyframe Animation */
+@@keyframes slideIn {
+    from {
+        transform: translateY(-50px);
+        opacity: 0;
+    }
+    to {
+        transform: translateY(0);
+        opacity: 1;
+    }
+}
+
+    </style>
+</head>
+<body>
+    <div class="login-container">
+        <div class="login-card">
+            <h2 class="login-title">Welcome Back!</h2>
+            <p class="login-subtitle">Please login to your account</p>
+            <form action="#" class="login-form">
+                <div class="form-group">
+                    <input type="email" id="email" name="email" required>
+                    <label for="email">Email Address</label>
+                    <span class="form-line"></span>
+                </div>
+                <div class="form-group">
+                    <input type="password" id="password" name="password" required>
+                    <label for="password">Password</label>
+                    <span class="form-line"></span>
+                </div>
+                <button type="submit" class="login-btn">Login</button>
+                <p class="forgot-password"><a href="#">Forgot your password?</a></p>
+            </form>
+        </div>
+    </div>
+</body>
+</html>

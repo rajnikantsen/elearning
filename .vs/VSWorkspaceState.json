@@ -9,6 +9,6 @@
     "\\Alturasphere_learning_Platform\\Views\\Registration",
     "\\Alturasphere_learning_Platform\\Views\\Shared"
   ],
-  "SelectedNode": "\\Alturasphere_learning_Platform\\Controllers\\HomeController.cs",
+  "SelectedNode": "\\Alturasphere_learning_Platform\\Views\\Home\\Index.cshtml",
   "PreviewInSolutionExplorer": false
 }

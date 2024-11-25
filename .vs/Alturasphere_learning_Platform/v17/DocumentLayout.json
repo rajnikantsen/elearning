@@ -3,148 +3,148 @@
   "WorkspaceRootPath": "C:\\Users\\HP\\Desktop\\Altura_Sphere_Tec_Website_Project\\Alturasphere_learning_Platform\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{63710875-111D-4EE0-B61C-656EAC0D4C8A}|Alturasphere_learning_Platform\\Alturasphere_learning_Platform.csproj|C:\\Users\\HP\\Desktop\\Altura_Sphere_Tec_Website_Project\\Alturasphere_learning_Platform\\Alturasphere_learning_Platform\\Views\\Home\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{63710875-111D-4EE0-B61C-656EAC0D4C8A}|Alturasphere_learning_Platform\\Alturasphere_learning_Platform.csproj|solutionrelative:Alturasphere_learning_Platform\\Views\\Home\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{63710875-111D-4EE0-B61C-656EAC0D4C8A}|Alturasphere_learning_Platform\\Alturasphere_learning_Platform.csproj|c:\\users\\hp\\desktop\\altura_sphere_tec_website_project\\alturasphere_learning_platform\\alturasphere_learning_platform\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{63710875-111D-4EE0-B61C-656EAC0D4C8A}|Alturasphere_learning_Platform\\Alturasphere_learning_Platform.csproj|solutionrelative:alturasphere_learning_platform\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{63710875-111D-4EE0-B61C-656EAC0D4C8A}|Alturasphere_learning_Platform\\Alturasphere_learning_Platform.csproj|C:\\Users\\HP\\Desktop\\Altura_Sphere_Tec_Website_Project\\Alturasphere_learning_Platform\\alturasphere_learning_platform\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{63710875-111D-4EE0-B61C-656EAC0D4C8A}|Alturasphere_learning_Platform\\Alturasphere_learning_Platform.csproj|solutionrelative:alturasphere_learning_platform\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{63710875-111D-4EE0-B61C-656EAC0D4C8A}|Alturasphere_learning_Platform\\Alturasphere_learning_Platform.csproj|C:\\Users\\HP\\Desktop\\Altura_Sphere_Tec_Website_Project\\Alturasphere_learning_Platform\\Alturasphere_learning_Platform\\Views\\Home\\Mentor1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{63710875-111D-4EE0-B61C-656EAC0D4C8A}|Alturasphere_learning_Platform\\Alturasphere_learning_Platform.csproj|solutionrelative:Alturasphere_learning_Platform\\Views\\Home\\Mentor1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{63710875-111D-4EE0-B61C-656EAC0D4C8A}|Alturasphere_learning_Platform\\Alturasphere_learning_Platform.csproj|C:\\Users\\HP\\Desktop\\Altura_Sphere_Tec_Website_Project\\Alturasphere_learning_Platform\\Alturasphere_learning_Platform\\Views\\Home\\Registration.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{63710875-111D-4EE0-B61C-656EAC0D4C8A}|Alturasphere_learning_Platform\\Alturasphere_learning_Platform.csproj|solutionrelative:Alturasphere_learning_Platform\\Views\\Home\\Registration.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{63710875-111D-4EE0-B61C-656EAC0D4C8A}|Alturasphere_learning_Platform\\Alturasphere_learning_Platform.csproj|C:\\Users\\HP\\Desktop\\Altura_Sphere_Tec_Website_Project\\Alturasphere_learning_Platform\\Alturasphere_learning_Platform\\Models\\Announcement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63710875-111D-4EE0-B61C-656EAC0D4C8A}|Alturasphere_learning_Platform\\Alturasphere_learning_Platform.csproj|solutionrelative:Alturasphere_learning_Platform\\Models\\Announcement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{63710875-111D-4EE0-B61C-656EAC0D4C8A}|Alturasphere_learning_Platform\\Alturasphere_learning_Platform.csproj|c:\\users\\hp\\desktop\\altura_sphere_tec_website_project\\alturasphere_learning_platform\\alturasphere_learning_platform\\views\\home\\mentor1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{63710875-111D-4EE0-B61C-656EAC0D4C8A}|Alturasphere_learning_Platform\\Alturasphere_learning_Platform.csproj|solutionrelative:alturasphere_learning_platform\\views\\home\\mentor1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{63710875-111D-4EE0-B61C-656EAC0D4C8A}|Alturasphere_learning_Platform\\Alturasphere_learning_Platform.csproj|C:\\Users\\HP\\Desktop\\Altura_Sphere_Tec_Website_Project\\Alturasphere_learning_Platform\\Alturasphere_learning_Platform\\Models\\Task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63710875-111D-4EE0-B61C-656EAC0D4C8A}|Alturasphere_learning_Platform\\Alturasphere_learning_Platform.csproj|solutionrelative:Alturasphere_learning_Platform\\Models\\Task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{63710875-111D-4EE0-B61C-656EAC0D4C8A}|Alturasphere_learning_Platform\\Alturasphere_learning_Platform.csproj|C:\\Users\\HP\\Desktop\\Altura_Sphere_Tec_Website_Project\\Alturasphere_learning_Platform\\alturasphere_learning_platform\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{63710875-111D-4EE0-B61C-656EAC0D4C8A}|Alturasphere_learning_Platform\\Alturasphere_learning_Platform.csproj|solutionrelative:alturasphere_learning_platform\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{63710875-111D-4EE0-B61C-656EAC0D4C8A}|Alturasphere_learning_Platform\\Alturasphere_learning_Platform.csproj|C:\\Users\\HP\\Desktop\\Altura_Sphere_Tec_Website_Project\\Alturasphere_learning_Platform\\Alturasphere_learning_Platform\\Models\\Lesson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63710875-111D-4EE0-B61C-656EAC0D4C8A}|Alturasphere_learning_Platform\\Alturasphere_learning_Platform.csproj|solutionrelative:Alturasphere_learning_Platform\\Models\\Lesson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{63710875-111D-4EE0-B61C-656EAC0D4C8A}|Alturasphere_learning_Platform\\Alturasphere_learning_Platform.csproj|C:\\Users\\HP\\Desktop\\Altura_Sphere_Tec_Website_Project\\Alturasphere_learning_Platform\\Alturasphere_learning_Platform\\Views\\Home\\Login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{63710875-111D-4EE0-B61C-656EAC0D4C8A}|Alturasphere_learning_Platform\\Alturasphere_learning_Platform.csproj|solutionrelative:Alturasphere_learning_Platform\\Views\\Home\\Login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{63710875-111D-4EE0-B61C-656EAC0D4C8A}|Alturasphere_learning_Platform\\Alturasphere_learning_Platform.csproj|C:\\Users\\HP\\Desktop\\Altura_Sphere_Tec_Website_Project\\Alturasphere_learning_Platform\\Alturasphere_learning_Platform\\Models\\Course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63710875-111D-4EE0-B61C-656EAC0D4C8A}|Alturasphere_learning_Platform\\Alturasphere_learning_Platform.csproj|solutionrelative:Alturasphere_learning_Platform\\Models\\Course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{63710875-111D-4EE0-B61C-656EAC0D4C8A}|Alturasphere_learning_Platform\\Alturasphere_learning_Platform.csproj|C:\\Users\\HP\\Desktop\\Altura_Sphere_Tec_Website_Project\\Alturasphere_learning_Platform\\alturasphere_learning_platform\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{63710875-111D-4EE0-B61C-656EAC0D4C8A}|Alturasphere_learning_Platform\\Alturasphere_learning_Platform.csproj|solutionrelative:alturasphere_learning_platform\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{63710875-111D-4EE0-B61C-656EAC0D4C8A}|Alturasphere_learning_Platform\\Alturasphere_learning_Platform.csproj|C:\\Users\\HP\\Desktop\\Altura_Sphere_Tec_Website_Project\\Alturasphere_learning_Platform\\Alturasphere_learning_Platform\\Controllers\\HomeController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63710875-111D-4EE0-B61C-656EAC0D4C8A}|Alturasphere_learning_Platform\\Alturasphere_learning_Platform.csproj|solutionrelative:Alturasphere_learning_Platform\\Controllers\\HomeController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{63710875-111D-4EE0-B61C-656EAC0D4C8A}|Alturasphere_learning_Platform\\Alturasphere_learning_Platform.csproj|c:\\users\\hp\\desktop\\altura_sphere_tec_website_project\\alturasphere_learning_platform\\alturasphere_learning_platform\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{63710875-111D-4EE0-B61C-656EAC0D4C8A}|Alturasphere_learning_Platform\\Alturasphere_learning_Platform.csproj|solutionrelative:alturasphere_learning_platform\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+      "AbsoluteMoniker": "D:0:0:{63710875-111D-4EE0-B61C-656EAC0D4C8A}|Alturasphere_learning_Platform\\Alturasphere_learning_Platform.csproj|C:\\Users\\HP\\Desktop\\Altura_Sphere_Tec_Website_Project\\Alturasphere_learning_Platform\\Alturasphere_learning_Platform\\Views\\Home\\Logoutall.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{63710875-111D-4EE0-B61C-656EAC0D4C8A}|Alturasphere_learning_Platform\\Alturasphere_learning_Platform.csproj|solutionrelative:Alturasphere_learning_Platform\\Views\\Home\\Logoutall.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{63710875-111D-4EE0-B61C-656EAC0D4C8A}|Alturasphere_learning_Platform\\Alturasphere_learning_Platform.csproj|C:\\Users\\HP\\Desktop\\Altura_Sphere_Tec_Website_Project\\Alturasphere_learning_Platform\\alturasphere_learning_platform\\views\\home\\lesson.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{63710875-111D-4EE0-B61C-656EAC0D4C8A}|Alturasphere_learning_Platform\\Alturasphere_learning_Platform.csproj|solutionrelative:alturasphere_learning_platform\\views\\home\\lesson.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{63710875-111D-4EE0-B61C-656EAC0D4C8A}|Alturasphere_learning_Platform\\Alturasphere_learning_Platform.csproj|C:\\Users\\HP\\Desktop\\Altura_Sphere_Tec_Website_Project\\Alturasphere_learning_Platform\\Alturasphere_learning_Platform\\Views\\Account\\Logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{63710875-111D-4EE0-B61C-656EAC0D4C8A}|Alturasphere_learning_Platform\\Alturasphere_learning_Platform.csproj|solutionrelative:Alturasphere_learning_Platform\\Views\\Account\\Logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{63710875-111D-4EE0-B61C-656EAC0D4C8A}|Alturasphere_learning_Platform\\Alturasphere_learning_Platform.csproj|C:\\Users\\HP\\Desktop\\Altura_Sphere_Tec_Website_Project\\Alturasphere_learning_Platform\\Alturasphere_learning_Platform\\Controllers\\RegistrationController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{63710875-111D-4EE0-B61C-656EAC0D4C8A}|Alturasphere_learning_Platform\\Alturasphere_learning_Platform.csproj|solutionrelative:Alturasphere_learning_Platform\\Controllers\\RegistrationController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{63710875-111D-4EE0-B61C-656EAC0D4C8A}|Alturasphere_learning_Platform\\Alturasphere_learning_Platform.csproj|C:\\Users\\HP\\Desktop\\Altura_Sphere_Tec_Website_Project\\Alturasphere_learning_Platform\\Alturasphere_learning_Platform\\Models\\SessionCheckAttribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63710875-111D-4EE0-B61C-656EAC0D4C8A}|Alturasphere_learning_Platform\\Alturasphere_learning_Platform.csproj|solutionrelative:Alturasphere_learning_Platform\\Models\\SessionCheckAttribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{63710875-111D-4EE0-B61C-656EAC0D4C8A}|Alturasphere_learning_Platform\\Alturasphere_learning_Platform.csproj|C:\\Users\\HP\\Desktop\\Altura_Sphere_Tec_Website_Project\\Alturasphere_learning_Platform\\Alturasphere_learning_Platform\\Views\\Home\\Dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{63710875-111D-4EE0-B61C-656EAC0D4C8A}|Alturasphere_learning_Platform\\Alturasphere_learning_Platform.csproj|solutionrelative:Alturasphere_learning_Platform\\Views\\Home\\Dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{63710875-111D-4EE0-B61C-656EAC0D4C8A}|Alturasphere_learning_Platform\\Alturasphere_learning_Platform.csproj|C:\\Users\\HP\\Desktop\\Altura_Sphere_Tec_Website_Project\\Alturasphere_learning_Platform\\Alturasphere_learning_Platform\\App_Start\\RouteConfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63710875-111D-4EE0-B61C-656EAC0D4C8A}|Alturasphere_learning_Platform\\Alturasphere_learning_Platform.csproj|solutionrelative:Alturasphere_learning_Platform\\App_Start\\RouteConfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{63710875-111D-4EE0-B61C-656EAC0D4C8A}|Alturasphere_learning_Platform\\Alturasphere_learning_Platform.csproj|C:\\Users\\HP\\Desktop\\Altura_Sphere_Tec_Website_Project\\Alturasphere_learning_Platform\\alturasphere_learning_platform\\models\\sessioncheckattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{63710875-111D-4EE0-B61C-656EAC0D4C8A}|Alturasphere_learning_Platform\\Alturasphere_learning_Platform.csproj|solutionrelative:alturasphere_learning_platform\\models\\sessioncheckattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{63710875-111D-4EE0-B61C-656EAC0D4C8A}|Alturasphere_learning_Platform\\Alturasphere_learning_Platform.csproj|C:\\Users\\HP\\Desktop\\Altura_Sphere_Tec_Website_Project\\Alturasphere_learning_Platform\\Alturasphere_learning_Platform\\Views\\Account\\Dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{63710875-111D-4EE0-B61C-656EAC0D4C8A}|Alturasphere_learning_Platform\\Alturasphere_learning_Platform.csproj|solutionrelative:Alturasphere_learning_Platform\\Views\\Account\\Dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{63710875-111D-4EE0-B61C-656EAC0D4C8A}|Alturasphere_learning_Platform\\Alturasphere_learning_Platform.csproj|C:\\Users\\HP\\Desktop\\Altura_Sphere_Tec_Website_Project\\Alturasphere_learning_Platform\\alturasphere_learning_platform\\views\\registration\\enroll.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{63710875-111D-4EE0-B61C-656EAC0D4C8A}|Alturasphere_learning_Platform\\Alturasphere_learning_Platform.csproj|solutionrelative:alturasphere_learning_platform\\views\\registration\\enroll.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{63710875-111D-4EE0-B61C-656EAC0D4C8A}|Alturasphere_learning_Platform\\Alturasphere_learning_Platform.csproj|C:\\Users\\HP\\Desktop\\Altura_Sphere_Tec_Website_Project\\Alturasphere_learning_Platform\\Alturasphere_learning_Platform\\Views\\Account\\Login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{63710875-111D-4EE0-B61C-656EAC0D4C8A}|Alturasphere_learning_Platform\\Alturasphere_learning_Platform.csproj|solutionrelative:Alturasphere_learning_Platform\\Views\\Account\\Login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{63710875-111D-4EE0-B61C-656EAC0D4C8A}|Alturasphere_learning_Platform\\Alturasphere_learning_Platform.csproj|C:\\Users\\HP\\Desktop\\Altura_Sphere_Tec_Website_Project\\Alturasphere_learning_Platform\\Alturasphere_learning_Platform\\Views\\Home\\Overview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{63710875-111D-4EE0-B61C-656EAC0D4C8A}|Alturasphere_learning_Platform\\Alturasphere_learning_Platform.csproj|solutionrelative:Alturasphere_learning_Platform\\Views\\Home\\Overview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{63710875-111D-4EE0-B61C-656EAC0D4C8A}|Alturasphere_learning_Platform\\Alturasphere_learning_Platform.csproj|C:\\Users\\HP\\Desktop\\Altura_Sphere_Tec_Website_Project\\Alturasphere_learning_Platform\\Alturasphere_learning_Platform\\Controllers\\AccountController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63710875-111D-4EE0-B61C-656EAC0D4C8A}|Alturasphere_learning_Platform\\Alturasphere_learning_Platform.csproj|solutionrelative:Alturasphere_learning_Platform\\Controllers\\AccountController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{63710875-111D-4EE0-B61C-656EAC0D4C8A}|Alturasphere_learning_Platform\\Alturasphere_learning_Platform.csproj|C:\\Users\\HP\\Desktop\\Altura_Sphere_Tec_Website_Project\\Alturasphere_learning_Platform\\alturasphere_learning_platform\\models\\lesson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{63710875-111D-4EE0-B61C-656EAC0D4C8A}|Alturasphere_learning_Platform\\Alturasphere_learning_Platform.csproj|solutionrelative:alturasphere_learning_platform\\models\\lesson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{63710875-111D-4EE0-B61C-656EAC0D4C8A}|Alturasphere_learning_Platform\\Alturasphere_learning_Platform.csproj|C:\\Users\\HP\\Desktop\\Altura_Sphere_Tec_Website_Project\\Alturasphere_learning_Platform\\alturasphere_learning_platform\\views\\home\\logoutall.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{63710875-111D-4EE0-B61C-656EAC0D4C8A}|Alturasphere_learning_Platform\\Alturasphere_learning_Platform.csproj|solutionrelative:alturasphere_learning_platform\\views\\home\\logoutall.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{63710875-111D-4EE0-B61C-656EAC0D4C8A}|Alturasphere_learning_Platform\\Alturasphere_learning_Platform.csproj|C:\\Users\\HP\\Desktop\\Altura_Sphere_Tec_Website_Project\\Alturasphere_learning_Platform\\Alturasphere_learning_Platform\\Views\\Home\\Interview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{63710875-111D-4EE0-B61C-656EAC0D4C8A}|Alturasphere_learning_Platform\\Alturasphere_learning_Platform.csproj|solutionrelative:Alturasphere_learning_Platform\\Views\\Home\\Interview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{63710875-111D-4EE0-B61C-656EAC0D4C8A}|Alturasphere_learning_Platform\\Alturasphere_learning_Platform.csproj|C:\\Users\\HP\\Desktop\\Altura_Sphere_Tec_Website_Project\\Alturasphere_learning_Platform\\Alturasphere_learning_Platform\\Views\\Home\\Settings.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{63710875-111D-4EE0-B61C-656EAC0D4C8A}|Alturasphere_learning_Platform\\Alturasphere_learning_Platform.csproj|solutionrelative:Alturasphere_learning_Platform\\Views\\Home\\Settings.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{63710875-111D-4EE0-B61C-656EAC0D4C8A}|Alturasphere_learning_Platform\\Alturasphere_learning_Platform.csproj|C:\\Users\\HP\\Desktop\\Altura_Sphere_Tec_Website_Project\\Alturasphere_learning_Platform\\Alturasphere_learning_Platform\\Views\\Home\\Contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{63710875-111D-4EE0-B61C-656EAC0D4C8A}|Alturasphere_learning_Platform\\Alturasphere_learning_Platform.csproj|solutionrelative:Alturasphere_learning_Platform\\Views\\Home\\Contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{63710875-111D-4EE0-B61C-656EAC0D4C8A}|Alturasphere_learning_Platform\\Alturasphere_learning_Platform.csproj|C:\\Users\\HP\\Desktop\\Altura_Sphere_Tec_Website_Project\\Alturasphere_learning_Platform\\Alturasphere_learning_Platform\\Views\\Home\\Course.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{63710875-111D-4EE0-B61C-656EAC0D4C8A}|Alturasphere_learning_Platform\\Alturasphere_learning_Platform.csproj|solutionrelative:Alturasphere_learning_Platform\\Views\\Home\\Course.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{63710875-111D-4EE0-B61C-656EAC0D4C8A}|Alturasphere_learning_Platform\\Alturasphere_learning_Platform.csproj|C:\\Users\\HP\\Desktop\\Altura_Sphere_Tec_Website_Project\\Alturasphere_learning_Platform\\alturasphere_learning_platform\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{63710875-111D-4EE0-B61C-656EAC0D4C8A}|Alturasphere_learning_Platform\\Alturasphere_learning_Platform.csproj|solutionrelative:alturasphere_learning_platform\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{63710875-111D-4EE0-B61C-656EAC0D4C8A}|Alturasphere_learning_Platform\\Alturasphere_learning_Platform.csproj|C:\\Users\\HP\\Desktop\\Altura_Sphere_Tec_Website_Project\\Alturasphere_learning_Platform\\alturasphere_learning_platform\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{63710875-111D-4EE0-B61C-656EAC0D4C8A}|Alturasphere_learning_Platform\\Alturasphere_learning_Platform.csproj|solutionrelative:alturasphere_learning_platform\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{63710875-111D-4EE0-B61C-656EAC0D4C8A}|Alturasphere_learning_Platform\\Alturasphere_learning_Platform.csproj|C:\\Users\\HP\\Desktop\\Altura_Sphere_Tec_Website_Project\\Alturasphere_learning_Platform\\alturasphere_learning_platform\\models\\announcement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{63710875-111D-4EE0-B61C-656EAC0D4C8A}|Alturasphere_learning_Platform\\Alturasphere_learning_Platform.csproj|solutionrelative:alturasphere_learning_platform\\models\\announcement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{63710875-111D-4EE0-B61C-656EAC0D4C8A}|Alturasphere_learning_Platform\\Alturasphere_learning_Platform.csproj|C:\\Users\\HP\\Desktop\\Altura_Sphere_Tec_Website_Project\\Alturasphere_learning_Platform\\alturasphere_learning_platform\\models\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{63710875-111D-4EE0-B61C-656EAC0D4C8A}|Alturasphere_learning_Platform\\Alturasphere_learning_Platform.csproj|solutionrelative:alturasphere_learning_platform\\models\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{63710875-111D-4EE0-B61C-656EAC0D4C8A}|Alturasphere_learning_Platform\\Alturasphere_learning_Platform.csproj|C:\\Users\\HP\\Desktop\\Altura_Sphere_Tec_Website_Project\\Alturasphere_learning_Platform\\alturasphere_learning_platform\\views\\account\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{63710875-111D-4EE0-B61C-656EAC0D4C8A}|Alturasphere_learning_Platform\\Alturasphere_learning_Platform.csproj|solutionrelative:alturasphere_learning_platform\\views\\account\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{63710875-111D-4EE0-B61C-656EAC0D4C8A}|Alturasphere_learning_Platform\\Alturasphere_learning_Platform.csproj|C:\\Users\\HP\\Desktop\\Altura_Sphere_Tec_Website_Project\\Alturasphere_learning_Platform\\alturasphere_learning_platform\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{63710875-111D-4EE0-B61C-656EAC0D4C8A}|Alturasphere_learning_Platform\\Alturasphere_learning_Platform.csproj|solutionrelative:alturasphere_learning_platform\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{63710875-111D-4EE0-B61C-656EAC0D4C8A}|Alturasphere_learning_Platform\\Alturasphere_learning_Platform.csproj|C:\\Users\\HP\\Desktop\\Altura_Sphere_Tec_Website_Project\\Alturasphere_learning_Platform\\Alturasphere_learning_Platform\\Views\\Home\\Logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{63710875-111D-4EE0-B61C-656EAC0D4C8A}|Alturasphere_learning_Platform\\Alturasphere_learning_Platform.csproj|solutionrelative:Alturasphere_learning_Platform\\Views\\Home\\Logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{63710875-111D-4EE0-B61C-656EAC0D4C8A}|Alturasphere_learning_Platform\\Alturasphere_learning_Platform.csproj|C:\\Users\\HP\\Desktop\\Altura_Sphere_Tec_Website_Project\\Alturasphere_learning_Platform\\alturasphere_learning_platform\\views\\account\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{63710875-111D-4EE0-B61C-656EAC0D4C8A}|Alturasphere_learning_Platform\\Alturasphere_learning_Platform.csproj|solutionrelative:alturasphere_learning_platform\\views\\account\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{63710875-111D-4EE0-B61C-656EAC0D4C8A}|Alturasphere_learning_Platform\\Alturasphere_learning_Platform.csproj|C:\\Users\\HP\\Desktop\\Altura_Sphere_Tec_Website_Project\\Alturasphere_learning_Platform\\Alturasphere_learning_Platform\\Views\\Home\\Training.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{63710875-111D-4EE0-B61C-656EAC0D4C8A}|Alturasphere_learning_Platform\\Alturasphere_learning_Platform.csproj|solutionrelative:Alturasphere_learning_Platform\\Views\\Home\\Training.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{63710875-111D-4EE0-B61C-656EAC0D4C8A}|Alturasphere_learning_Platform\\Alturasphere_learning_Platform.csproj|C:\\Users\\HP\\Desktop\\Altura_Sphere_Tec_Website_Project\\Alturasphere_learning_Platform\\Alturasphere_learning_Platform\\Models\\User.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{63710875-111D-4EE0-B61C-656EAC0D4C8A}|Alturasphere_learning_Platform\\Alturasphere_learning_Platform.csproj|solutionrelative:Alturasphere_learning_Platform\\Models\\User.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{63710875-111D-4EE0-B61C-656EAC0D4C8A}|Alturasphere_learning_Platform\\Alturasphere_learning_Platform.csproj|C:\\Users\\HP\\Desktop\\Altura_Sphere_Tec_Website_Project\\Alturasphere_learning_Platform\\Alturasphere_learning_Platform\\Views\\Home\\Task.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{63710875-111D-4EE0-B61C-656EAC0D4C8A}|Alturasphere_learning_Platform\\Alturasphere_learning_Platform.csproj|solutionrelative:Alturasphere_learning_Platform\\Views\\Home\\Task.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{63710875-111D-4EE0-B61C-656EAC0D4C8A}|Alturasphere_learning_Platform\\Alturasphere_learning_Platform.csproj|C:\\Users\\HP\\Desktop\\Altura_Sphere_Tec_Website_Project\\Alturasphere_learning_Platform\\Alturasphere_learning_Platform\\Views\\Home\\About.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{63710875-111D-4EE0-B61C-656EAC0D4C8A}|Alturasphere_learning_Platform\\Alturasphere_learning_Platform.csproj|solutionrelative:Alturasphere_learning_Platform\\Views\\Home\\About.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{63710875-111D-4EE0-B61C-656EAC0D4C8A}|Alturasphere_learning_Platform\\Alturasphere_learning_Platform.csproj|C:\\Users\\HP\\Desktop\\Altura_Sphere_Tec_Website_Project\\Alturasphere_learning_Platform\\Alturasphere_learning_Platform\\Views\\Home\\Internship.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{63710875-111D-4EE0-B61C-656EAC0D4C8A}|Alturasphere_learning_Platform\\Alturasphere_learning_Platform.csproj|solutionrelative:Alturasphere_learning_Platform\\Views\\Home\\Internship.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{63710875-111D-4EE0-B61C-656EAC0D4C8A}|Alturasphere_learning_Platform\\Alturasphere_learning_Platform.csproj|C:\\Users\\HP\\Desktop\\Altura_Sphere_Tec_Website_Project\\Alturasphere_learning_Platform\\Alturasphere_learning_Platform\\Views\\Registration\\Enroll.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{63710875-111D-4EE0-B61C-656EAC0D4C8A}|Alturasphere_learning_Platform\\Alturasphere_learning_Platform.csproj|solutionrelative:Alturasphere_learning_Platform\\Views\\Registration\\Enroll.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{63710875-111D-4EE0-B61C-656EAC0D4C8A}|Alturasphere_learning_Platform\\Alturasphere_learning_Platform.csproj|C:\\Users\\HP\\Desktop\\Altura_Sphere_Tec_Website_Project\\Alturasphere_learning_Platform\\Alturasphere_learning_Platform\\Views\\Registration\\Success.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{63710875-111D-4EE0-B61C-656EAC0D4C8A}|Alturasphere_learning_Platform\\Alturasphere_learning_Platform.csproj|solutionrelative:Alturasphere_learning_Platform\\Views\\Registration\\Success.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{63710875-111D-4EE0-B61C-656EAC0D4C8A}|Alturasphere_learning_Platform\\Alturasphere_learning_Platform.csproj|C:\\Users\\HP\\Desktop\\Altura_Sphere_Tec_Website_Project\\Alturasphere_learning_Platform\\Alturasphere_learning_Platform\\Controllers\\RegistrationController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63710875-111D-4EE0-B61C-656EAC0D4C8A}|Alturasphere_learning_Platform\\Alturasphere_learning_Platform.csproj|solutionrelative:Alturasphere_learning_Platform\\Controllers\\RegistrationController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63710875-111D-4EE0-B61C-656EAC0D4C8A}|Alturasphere_learning_Platform\\Alturasphere_learning_Platform.csproj|C:\\Users\\HP\\Desktop\\Altura_Sphere_Tec_Website_Project\\Alturasphere_learning_Platform\\Alturasphere_learning_Platform\\Models\\User.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63710875-111D-4EE0-B61C-656EAC0D4C8A}|Alturasphere_learning_Platform\\Alturasphere_learning_Platform.csproj|solutionrelative:Alturasphere_learning_Platform\\Models\\User.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63710875-111D-4EE0-B61C-656EAC0D4C8A}|Alturasphere_learning_Platform\\Alturasphere_learning_Platform.csproj|C:\\Users\\HP\\Desktop\\Altura_Sphere_Tec_Website_Project\\Alturasphere_learning_Platform\\Alturasphere_learning_Platform\\Web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{63710875-111D-4EE0-B61C-656EAC0D4C8A}|Alturasphere_learning_Platform\\Alturasphere_learning_Platform.csproj|solutionrelative:Alturasphere_learning_Platform\\Web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63710875-111D-4EE0-B61C-656EAC0D4C8A}|Alturasphere_learning_Platform\\Alturasphere_learning_Platform.csproj|C:\\Users\\HP\\Desktop\\Altura_Sphere_Tec_Website_Project\\Alturasphere_learning_Platform\\Alturasphere_learning_Platform\\Views\\Home\\Registration.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{63710875-111D-4EE0-B61C-656EAC0D4C8A}|Alturasphere_learning_Platform\\Alturasphere_learning_Platform.csproj|solutionrelative:Alturasphere_learning_Platform\\Views\\Home\\Registration.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63710875-111D-4EE0-B61C-656EAC0D4C8A}|Alturasphere_learning_Platform\\Alturasphere_learning_Platform.csproj|C:\\Users\\HP\\Desktop\\Altura_Sphere_Tec_Website_Project\\Alturasphere_learning_Platform\\Alturasphere_learning_Platform\\Views\\Home\\Internship.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{63710875-111D-4EE0-B61C-656EAC0D4C8A}|Alturasphere_learning_Platform\\Alturasphere_learning_Platform.csproj|solutionrelative:Alturasphere_learning_Platform\\Views\\Home\\Internship.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63710875-111D-4EE0-B61C-656EAC0D4C8A}|Alturasphere_learning_Platform\\Alturasphere_learning_Platform.csproj|C:\\Users\\HP\\Desktop\\Altura_Sphere_Tec_Website_Project\\Alturasphere_learning_Platform\\Alturasphere_learning_Platform\\Views\\Home\\Course.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{63710875-111D-4EE0-B61C-656EAC0D4C8A}|Alturasphere_learning_Platform\\Alturasphere_learning_Platform.csproj|solutionrelative:Alturasphere_learning_Platform\\Views\\Home\\Course.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63710875-111D-4EE0-B61C-656EAC0D4C8A}|Alturasphere_learning_Platform\\Alturasphere_learning_Platform.csproj|C:\\Users\\HP\\Desktop\\Altura_Sphere_Tec_Website_Project\\Alturasphere_learning_Platform\\Alturasphere_learning_Platform\\Views\\Home\\Training.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{63710875-111D-4EE0-B61C-656EAC0D4C8A}|Alturasphere_learning_Platform\\Alturasphere_learning_Platform.csproj|solutionrelative:Alturasphere_learning_Platform\\Views\\Home\\Training.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63710875-111D-4EE0-B61C-656EAC0D4C8A}|Alturasphere_learning_Platform\\Alturasphere_learning_Platform.csproj|C:\\Users\\HP\\Desktop\\Altura_Sphere_Tec_Website_Project\\Alturasphere_learning_Platform\\Alturasphere_learning_Platform\\Views\\Home\\About.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{63710875-111D-4EE0-B61C-656EAC0D4C8A}|Alturasphere_learning_Platform\\Alturasphere_learning_Platform.csproj|solutionrelative:Alturasphere_learning_Platform\\Views\\Home\\About.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63710875-111D-4EE0-B61C-656EAC0D4C8A}|Alturasphere_learning_Platform\\Alturasphere_learning_Platform.csproj|C:\\Users\\HP\\Desktop\\Altura_Sphere_Tec_Website_Project\\Alturasphere_learning_Platform\\Alturasphere_learning_Platform\\Views\\Home\\Task.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{63710875-111D-4EE0-B61C-656EAC0D4C8A}|Alturasphere_learning_Platform\\Alturasphere_learning_Platform.csproj|solutionrelative:Alturasphere_learning_Platform\\Views\\Home\\Task.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63710875-111D-4EE0-B61C-656EAC0D4C8A}|Alturasphere_learning_Platform\\Alturasphere_learning_Platform.csproj|C:\\Users\\HP\\Desktop\\Altura_Sphere_Tec_Website_Project\\Alturasphere_learning_Platform\\Alturasphere_learning_Platform\\Views\\Home\\Settings.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{63710875-111D-4EE0-B61C-656EAC0D4C8A}|Alturasphere_learning_Platform\\Alturasphere_learning_Platform.csproj|solutionrelative:Alturasphere_learning_Platform\\Views\\Home\\Settings.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63710875-111D-4EE0-B61C-656EAC0D4C8A}|Alturasphere_learning_Platform\\Alturasphere_learning_Platform.csproj|C:\\Users\\HP\\Desktop\\Altura_Sphere_Tec_Website_Project\\Alturasphere_learning_Platform\\Alturasphere_learning_Platform\\Views\\Home\\Overview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{63710875-111D-4EE0-B61C-656EAC0D4C8A}|Alturasphere_learning_Platform\\Alturasphere_learning_Platform.csproj|solutionrelative:Alturasphere_learning_Platform\\Views\\Home\\Overview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63710875-111D-4EE0-B61C-656EAC0D4C8A}|Alturasphere_learning_Platform\\Alturasphere_learning_Platform.csproj|C:\\Users\\HP\\Desktop\\Altura_Sphere_Tec_Website_Project\\Alturasphere_learning_Platform\\Alturasphere_learning_Platform\\Views\\Home\\Logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{63710875-111D-4EE0-B61C-656EAC0D4C8A}|Alturasphere_learning_Platform\\Alturasphere_learning_Platform.csproj|solutionrelative:Alturasphere_learning_Platform\\Views\\Home\\Logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{63710875-111D-4EE0-B61C-656EAC0D4C8A}|Alturasphere_learning_Platform\\Alturasphere_learning_Platform.csproj|C:\\Users\\HP\\Desktop\\Altura_Sphere_Tec_Website_Project\\Alturasphere_learning_Platform\\Alturasphere_learning_Platform\\Views\\Home\\Group.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{63710875-111D-4EE0-B61C-656EAC0D4C8A}|Alturasphere_learning_Platform\\Alturasphere_learning_Platform.csproj|solutionrelative:Alturasphere_learning_Platform\\Views\\Home\\Group.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{63710875-111D-4EE0-B61C-656EAC0D4C8A}|Alturasphere_learning_Platform\\Alturasphere_learning_Platform.csproj|C:\\Users\\HP\\Desktop\\Altura_Sphere_Tec_Website_Project\\Alturasphere_learning_Platform\\Alturasphere_learning_Platform\\Views\\Home\\Dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{63710875-111D-4EE0-B61C-656EAC0D4C8A}|Alturasphere_learning_Platform\\Alturasphere_learning_Platform.csproj|solutionrelative:Alturasphere_learning_Platform\\Views\\Home\\Dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{63710875-111D-4EE0-B61C-656EAC0D4C8A}|Alturasphere_learning_Platform\\Alturasphere_learning_Platform.csproj|C:\\Users\\HP\\Desktop\\Altura_Sphere_Tec_Website_Project\\Alturasphere_learning_Platform\\Alturasphere_learning_Platform\\Views\\Home\\Inbox.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{63710875-111D-4EE0-B61C-656EAC0D4C8A}|Alturasphere_learning_Platform\\Alturasphere_learning_Platform.csproj|solutionrelative:Alturasphere_learning_Platform\\Views\\Home\\Inbox.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63710875-111D-4EE0-B61C-656EAC0D4C8A}|Alturasphere_learning_Platform\\Alturasphere_learning_Platform.csproj|C:\\Users\\HP\\Desktop\\Altura_Sphere_Tec_Website_Project\\Alturasphere_learning_Platform\\Alturasphere_learning_Platform\\Views\\Home\\Contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{63710875-111D-4EE0-B61C-656EAC0D4C8A}|Alturasphere_learning_Platform\\Alturasphere_learning_Platform.csproj|solutionrelative:Alturasphere_learning_Platform\\Views\\Home\\Contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63710875-111D-4EE0-B61C-656EAC0D4C8A}|Alturasphere_learning_Platform\\Alturasphere_learning_Platform.csproj|C:\\Users\\HP\\Desktop\\Altura_Sphere_Tec_Website_Project\\Alturasphere_learning_Platform\\Alturasphere_learning_Platform\\Views\\Home\\Login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{63710875-111D-4EE0-B61C-656EAC0D4C8A}|Alturasphere_learning_Platform\\Alturasphere_learning_Platform.csproj|solutionrelative:Alturasphere_learning_Platform\\Views\\Home\\Login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63710875-111D-4EE0-B61C-656EAC0D4C8A}|Alturasphere_learning_Platform\\Alturasphere_learning_Platform.csproj|C:\\Users\\HP\\Desktop\\Altura_Sphere_Tec_Website_Project\\Alturasphere_learning_Platform\\Alturasphere_learning_Platform\\Views\\Home\\Lesson.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{63710875-111D-4EE0-B61C-656EAC0D4C8A}|Alturasphere_learning_Platform\\Alturasphere_learning_Platform.csproj|solutionrelative:Alturasphere_learning_Platform\\Views\\Home\\Lesson.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63710875-111D-4EE0-B61C-656EAC0D4C8A}|Alturasphere_learning_Platform\\Alturasphere_learning_Platform.csproj|C:\\Users\\HP\\Desktop\\Altura_Sphere_Tec_Website_Project\\Alturasphere_learning_Platform\\Alturasphere_learning_Platform\\Views\\Home\\Interview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{63710875-111D-4EE0-B61C-656EAC0D4C8A}|Alturasphere_learning_Platform\\Alturasphere_learning_Platform.csproj|solutionrelative:Alturasphere_learning_Platform\\Views\\Home\\Interview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63710875-111D-4EE0-B61C-656EAC0D4C8A}|Alturasphere_learning_Platform\\Alturasphere_learning_Platform.csproj|C:\\Users\\HP\\Desktop\\Altura_Sphere_Tec_Website_Project\\Alturasphere_learning_Platform\\Alturasphere_learning_Platform\\Views\\Shared\\_Layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{63710875-111D-4EE0-B61C-656EAC0D4C8A}|Alturasphere_learning_Platform\\Alturasphere_learning_Platform.csproj|solutionrelative:Alturasphere_learning_Platform\\Views\\Shared\\_Layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -162,7 +162,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Mentor1.cshtml",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Altura_Sphere_Tec_Website_Project\\Alturasphere_learning_Platform\\Alturasphere_learning_Platform\\Views\\Home\\Mentor1.cshtml",
               "RelativeDocumentMoniker": "Alturasphere_learning_Platform\\Views\\Home\\Mentor1.cshtml",
@@ -170,12 +170,11 @@
               "RelativeToolTip": "Alturasphere_learning_Platform\\Views\\Home\\Mentor1.cshtml",
               "ViewState": "AQIAACAAAAAAAAAAAAAAADQAAAAGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-25T04:47:14.417Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-25T04:47:14.417Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 2,
               "Title": "Announcement.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Altura_Sphere_Tec_Website_Project\\Alturasphere_learning_Platform\\Alturasphere_learning_Platform\\Models\\Announcement.cs",
               "RelativeDocumentMoniker": "Alturasphere_learning_Platform\\Models\\Announcement.cs",
@@ -187,7 +186,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 3,
               "Title": "Task.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Altura_Sphere_Tec_Website_Project\\Alturasphere_learning_Platform\\Alturasphere_learning_Platform\\Models\\Task.cs",
               "RelativeDocumentMoniker": "Alturasphere_learning_Platform\\Models\\Task.cs",
@@ -199,7 +198,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 4,
               "Title": "Lesson.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Altura_Sphere_Tec_Website_Project\\Alturasphere_learning_Platform\\Alturasphere_learning_Platform\\Models\\Lesson.cs",
               "RelativeDocumentMoniker": "Alturasphere_learning_Platform\\Models\\Lesson.cs",
@@ -211,7 +210,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 5,
               "Title": "Course.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Altura_Sphere_Tec_Website_Project\\Alturasphere_learning_Platform\\Alturasphere_learning_Platform\\Models\\Course.cs",
               "RelativeDocumentMoniker": "Alturasphere_learning_Platform\\Models\\Course.cs",
@@ -231,12 +230,11 @@
               "RelativeToolTip": "Alturasphere_learning_Platform\\Controllers\\HomeController.cs",
               "ViewState": "AQIAAKgAAAAAAAAAAAAAALsAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-13T04:16:10.346Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-13T04:16:10.346Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 7,
               "Title": "Logoutall.cshtml",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Altura_Sphere_Tec_Website_Project\\Alturasphere_learning_Platform\\Alturasphere_learning_Platform\\Views\\Home\\Logoutall.cshtml",
               "RelativeDocumentMoniker": "Alturasphere_learning_Platform\\Views\\Home\\Logoutall.cshtml",
@@ -248,7 +246,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 8,
               "Title": "Logout.cshtml",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Altura_Sphere_Tec_Website_Project\\Alturasphere_learning_Platform\\Alturasphere_learning_Platform\\Views\\Account\\Logout.cshtml",
               "RelativeDocumentMoniker": "Alturasphere_learning_Platform\\Views\\Account\\Logout.cshtml",
@@ -260,7 +258,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 9,
               "Title": "SessionCheckAttribute.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Altura_Sphere_Tec_Website_Project\\Alturasphere_learning_Platform\\Alturasphere_learning_Platform\\Models\\SessionCheckAttribute.cs",
               "RelativeDocumentMoniker": "Alturasphere_learning_Platform\\Models\\SessionCheckAttribute.cs",
@@ -272,7 +270,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 10,
               "Title": "RouteConfig.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Altura_Sphere_Tec_Website_Project\\Alturasphere_learning_Platform\\Alturasphere_learning_Platform\\App_Start\\RouteConfig.cs",
               "RelativeDocumentMoniker": "Alturasphere_learning_Platform\\App_Start\\RouteConfig.cs",
@@ -284,7 +282,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 11,
               "Title": "Dashboard.cshtml",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Altura_Sphere_Tec_Website_Project\\Alturasphere_learning_Platform\\Alturasphere_learning_Platform\\Views\\Account\\Dashboard.cshtml",
               "RelativeDocumentMoniker": "Alturasphere_learning_Platform\\Views\\Account\\Dashboard.cshtml",
@@ -296,7 +294,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 12,
               "Title": "Login.cshtml",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Altura_Sphere_Tec_Website_Project\\Alturasphere_learning_Platform\\Alturasphere_learning_Platform\\Views\\Account\\Login.cshtml",
               "RelativeDocumentMoniker": "Alturasphere_learning_Platform\\Views\\Account\\Login.cshtml",
@@ -304,12 +302,11 @@
               "RelativeToolTip": "Alturasphere_learning_Platform\\Views\\Account\\Login.cshtml",
               "ViewState": "AQIAACIAAAAAAAAAAABhwDwAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-20T12:12:39.943Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-20T12:12:39.943Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 13,
               "Title": "AccountController.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Altura_Sphere_Tec_Website_Project\\Alturasphere_learning_Platform\\Alturasphere_learning_Platform\\Controllers\\AccountController.cs",
               "RelativeDocumentMoniker": "Alturasphere_learning_Platform\\Controllers\\AccountController.cs",
@@ -317,12 +314,11 @@
               "RelativeToolTip": "Alturasphere_learning_Platform\\Controllers\\AccountController.cs",
               "ViewState": "AQIAAL8AAAAAAAAAAAAAAIwAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-20T12:11:18.87Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-20T12:11:18.87Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "Enroll.cshtml",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Altura_Sphere_Tec_Website_Project\\Alturasphere_learning_Platform\\Alturasphere_learning_Platform\\Views\\Registration\\Enroll.cshtml",
               "RelativeDocumentMoniker": "Alturasphere_learning_Platform\\Views\\Registration\\Enroll.cshtml",
@@ -334,7 +330,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 15,
               "Title": "Success.cshtml",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Altura_Sphere_Tec_Website_Project\\Alturasphere_learning_Platform\\Alturasphere_learning_Platform\\Views\\Registration\\Success.cshtml",
               "RelativeDocumentMoniker": "Alturasphere_learning_Platform\\Views\\Registration\\Success.cshtml",
@@ -346,7 +342,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 16,
               "Title": "RegistrationController.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Altura_Sphere_Tec_Website_Project\\Alturasphere_learning_Platform\\Alturasphere_learning_Platform\\Controllers\\RegistrationController.cs",
               "RelativeDocumentMoniker": "Alturasphere_learning_Platform\\Controllers\\RegistrationController.cs",
@@ -358,7 +354,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 17,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Altura_Sphere_Tec_Website_Project\\Alturasphere_learning_Platform\\Alturasphere_learning_Platform\\Models\\User.cs",
               "RelativeDocumentMoniker": "Alturasphere_learning_Platform\\Models\\User.cs",
@@ -370,7 +366,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 18,
               "Title": "Web.config",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Altura_Sphere_Tec_Website_Project\\Alturasphere_learning_Platform\\Alturasphere_learning_Platform\\Web.config",
               "RelativeDocumentMoniker": "Alturasphere_learning_Platform\\Web.config",
@@ -383,7 +379,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 19,
               "Title": "Registration.cshtml",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Altura_Sphere_Tec_Website_Project\\Alturasphere_learning_Platform\\Alturasphere_learning_Platform\\Views\\Home\\Registration.cshtml",
               "RelativeDocumentMoniker": "Alturasphere_learning_Platform\\Views\\Home\\Registration.cshtml",
@@ -391,12 +387,11 @@
               "RelativeToolTip": "Alturasphere_learning_Platform\\Views\\Home\\Registration.cshtml",
               "ViewState": "AQIAACYAAAAAAAAAAAAAADcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-20T06:16:19.423Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-20T06:16:19.423Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 20,
               "Title": "Internship.cshtml",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Altura_Sphere_Tec_Website_Project\\Alturasphere_learning_Platform\\Alturasphere_learning_Platform\\Views\\Home\\Internship.cshtml",
               "RelativeDocumentMoniker": "Alturasphere_learning_Platform\\Views\\Home\\Internship.cshtml",
@@ -408,7 +403,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 21,
               "Title": "Course.cshtml",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Altura_Sphere_Tec_Website_Project\\Alturasphere_learning_Platform\\Alturasphere_learning_Platform\\Views\\Home\\Course.cshtml",
               "RelativeDocumentMoniker": "Alturasphere_learning_Platform\\Views\\Home\\Course.cshtml",
@@ -420,7 +415,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 22,
               "Title": "Training.cshtml",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Altura_Sphere_Tec_Website_Project\\Alturasphere_learning_Platform\\Alturasphere_learning_Platform\\Views\\Home\\Training.cshtml",
               "RelativeDocumentMoniker": "Alturasphere_learning_Platform\\Views\\Home\\Training.cshtml",
@@ -428,12 +423,11 @@
               "RelativeToolTip": "Alturasphere_learning_Platform\\Views\\Home\\Training.cshtml",
               "ViewState": "AQIAAK4AAAAAAAAAAIBJwMQAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-19T11:39:36.62Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-19T11:39:36.62Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 23,
               "Title": "About.cshtml",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Altura_Sphere_Tec_Website_Project\\Alturasphere_learning_Platform\\Alturasphere_learning_Platform\\Views\\Home\\About.cshtml",
               "RelativeDocumentMoniker": "Alturasphere_learning_Platform\\Views\\Home\\About.cshtml",
@@ -441,12 +435,11 @@
               "RelativeToolTip": "Alturasphere_learning_Platform\\Views\\Home\\About.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-19T10:25:19.689Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-19T10:25:19.689Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 24,
               "Title": "Task.cshtml",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Altura_Sphere_Tec_Website_Project\\Alturasphere_learning_Platform\\Alturasphere_learning_Platform\\Views\\Home\\Task.cshtml",
               "RelativeDocumentMoniker": "Alturasphere_learning_Platform\\Views\\Home\\Task.cshtml",
@@ -458,7 +451,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 25,
               "Title": "Settings.cshtml",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Altura_Sphere_Tec_Website_Project\\Alturasphere_learning_Platform\\Alturasphere_learning_Platform\\Views\\Home\\Settings.cshtml",
               "RelativeDocumentMoniker": "Alturasphere_learning_Platform\\Views\\Home\\Settings.cshtml",
@@ -470,7 +463,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 26,
               "Title": "Overview.cshtml",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Altura_Sphere_Tec_Website_Project\\Alturasphere_learning_Platform\\Alturasphere_learning_Platform\\Views\\Home\\Overview.cshtml",
               "RelativeDocumentMoniker": "Alturasphere_learning_Platform\\Views\\Home\\Overview.cshtml",
@@ -482,7 +475,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 27,
               "Title": "Logout.cshtml",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Altura_Sphere_Tec_Website_Project\\Alturasphere_learning_Platform\\Alturasphere_learning_Platform\\Views\\Home\\Logout.cshtml",
               "RelativeDocumentMoniker": "Alturasphere_learning_Platform\\Views\\Home\\Logout.cshtml",
@@ -494,7 +487,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 28,
               "Title": "Group.cshtml",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Altura_Sphere_Tec_Website_Project\\Alturasphere_learning_Platform\\Alturasphere_learning_Platform\\Views\\Home\\Group.cshtml",
               "RelativeDocumentMoniker": "Alturasphere_learning_Platform\\Views\\Home\\Group.cshtml",
@@ -506,7 +499,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 29,
               "Title": "Dashboard.cshtml",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Altura_Sphere_Tec_Website_Project\\Alturasphere_learning_Platform\\Alturasphere_learning_Platform\\Views\\Home\\Dashboard.cshtml",
               "RelativeDocumentMoniker": "Alturasphere_learning_Platform\\Views\\Home\\Dashboard.cshtml",
@@ -518,7 +511,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 30,
               "Title": "Inbox.cshtml",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Altura_Sphere_Tec_Website_Project\\Alturasphere_learning_Platform\\Alturasphere_learning_Platform\\Views\\Home\\Inbox.cshtml",
               "RelativeDocumentMoniker": "Alturasphere_learning_Platform\\Views\\Home\\Inbox.cshtml",
@@ -530,7 +523,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 31,
               "Title": "Contact.cshtml",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Altura_Sphere_Tec_Website_Project\\Alturasphere_learning_Platform\\Alturasphere_learning_Platform\\Views\\Home\\Contact.cshtml",
               "RelativeDocumentMoniker": "Alturasphere_learning_Platform\\Views\\Home\\Contact.cshtml",
@@ -542,7 +535,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 32,
               "Title": "Login.cshtml",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Altura_Sphere_Tec_Website_Project\\Alturasphere_learning_Platform\\Alturasphere_learning_Platform\\Views\\Home\\Login.cshtml",
               "RelativeDocumentMoniker": "Alturasphere_learning_Platform\\Views\\Home\\Login.cshtml",
@@ -550,12 +543,11 @@
               "RelativeToolTip": "Alturasphere_learning_Platform\\Views\\Home\\Login.cshtml",
               "ViewState": "AQIAAIwAAAAAAAAAAAAAABcAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-19T10:01:56.979Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-19T10:01:56.979Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 33,
               "Title": "Lesson.cshtml",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Altura_Sphere_Tec_Website_Project\\Alturasphere_learning_Platform\\Alturasphere_learning_Platform\\Views\\Home\\Lesson.cshtml",
               "RelativeDocumentMoniker": "Alturasphere_learning_Platform\\Views\\Home\\Lesson.cshtml",
@@ -567,7 +559,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 34,
               "Title": "Interview.cshtml",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Altura_Sphere_Tec_Website_Project\\Alturasphere_learning_Platform\\Alturasphere_learning_Platform\\Views\\Home\\Interview.cshtml",
               "RelativeDocumentMoniker": "Alturasphere_learning_Platform\\Views\\Home\\Interview.cshtml",
@@ -579,7 +571,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 35,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Altura_Sphere_Tec_Website_Project\\Alturasphere_learning_Platform\\Alturasphere_learning_Platform\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Alturasphere_learning_Platform\\Views\\Shared\\_Layout.cshtml",
@@ -598,7 +590,7 @@
               "RelativeDocumentMoniker": "Alturasphere_learning_Platform\\Views\\Home\\Index.cshtml",
               "ToolTip": "C:\\Users\\HP\\Desktop\\Altura_Sphere_Tec_Website_Project\\Alturasphere_learning_Platform\\Alturasphere_learning_Platform\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "Alturasphere_learning_Platform\\Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAAHgBAAAAAAAAAAAAAIkBAAAAAAAA",
+              "ViewState": "AQIAAOcCAAAAAAAAAAAAAPMCAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-11-13T04:16:21.852Z",
               "EditorCaption": ""

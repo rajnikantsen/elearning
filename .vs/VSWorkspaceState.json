@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Alturasphere_learning_Platform",
+    "\\Alturasphere_learning_Platform\\Controllers",
+    "\\Alturasphere_learning_Platform\\Models",
+    "\\Alturasphere_learning_Platform\\Views",
+    "\\Alturasphere_learning_Platform\\Views\\Home",
+    "\\Alturasphere_learning_Platform\\Views\\Registration",
+    "\\Alturasphere_learning_Platform\\Views\\Shared"
+  ],
+  "SelectedNode": "\\Alturasphere_learning_Platform\\Controllers\\HomeController.cs",
+  "PreviewInSolutionExplorer": false
+}

@@ -135,35 +135,63 @@ body {
         <form class="enroll-form" action="@Url.Action("Success", "Registration")">
             <h2>Registration Form</h2>
             <p>Fill in your details to enroll in the course.</p>
-
-            <!-- Full Name -->
-            <label for="name">Full Name:</label>
-            <input type="text" id="name" name="name" placeholder="Enter your full name" required>
-
-            <!-- Email -->
-            <label for="email">Email Address:</label>
-            <input type="email" id="email" name="email" placeholder="Enter your email address" required>
-
-            <!-- Phone -->
-            <label for="phone">Phone Number:</label>
-            <input type="tel" id="phone" name="phone" placeholder="Enter your phone number" required>
-
-            <!-- Course Selection -->
-            <label for="course">Select Course:</label>
-            <select id="course" name="course" required>
-                <option value="" disabled selected>Select a course</option>
-                <option value="web-development">Web Development</option>
-                <option value="data-science">Data Science</option>
-                <option value="mobile-development">Mobile App Development</option>
-            </select>
-
-            <!-- Submit Button -->
-            <button type="submit" class="submit-btn">Enroll Now</button>
+ Full Name 
+<label for="name">Full Name:</label>
+<input type="text" id="name" name="name" placeholder="Enter your full name" required>
+ Email 
+<label for="email">Email Address:</label>
+<input type="email" id="email" name="email" placeholder="Enter your email address" required>
+ Phone 
+<label for="phone">Phone Number:</label>
+<input type="tel" id="phone" name="phone" placeholder="Enter your phone number" required>
+ Course Selection 
+<label for="course">Select Course:</label>
+<select id="course" name="course" required>
+    <option value="" disabled selected>Select a course</option>
+    <option value="web-development">Web Development</option>
+    <option value="data-science">Data Science</option>
+    <option value="mobile-development">Mobile App Development</option>
+</select>
+ Submit Button 
+<button type="submit" class="submit-btn">Enroll Now</button>
         </form>
     </main>
 
-    
+
 
     <script src="scripts.js"></script>
 </body>
 </html>
+@*@model Alturasphere_learning_Platform.Models.User
+
+<h2>Registration</h2>
+
+@if (TempData["ErrorMessage"] != null)
+{
+    <p style="color: red;">@TempData["ErrorMessage"]</p>
+}
+
+@using (Html.BeginForm("Enroll", "Registration", FormMethod.Post))
+{
+    <div>
+        <label>Full Name:</label>
+        @Html.TextBoxFor(m => m.FullName)
+        @Html.ValidationMessageFor(m => m.FullName)
+    </div>
+    <div>
+        <label>Email:</label>
+        @Html.TextBoxFor(m => m.Email)
+        @Html.ValidationMessageFor(m => m.Email)
+    </div>
+    <div>
+        <label>Phone:</label>
+        @Html.TextBoxFor(m => m.Phone)
+        @Html.ValidationMessageFor(m => m.Phone)
+    </div>
+    <div>
+        <label>Course:</label>
+        @Html.TextBoxFor(m => m.Course)
+        @Html.ValidationMessageFor(m => m.Course)
+    </div>
+    <button type="submit">Enroll Now</button>
+}*@

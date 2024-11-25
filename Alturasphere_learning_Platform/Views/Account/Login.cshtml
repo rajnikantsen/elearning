@@ -1,0 +1,139 @@
+﻿@model Alturasphere_learning_Platform.Models.User
+
+    <!DOCTYPE html>
+    <html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Login</title>
+        <style>
+            body {
+                /*font-family: 'Arial', sans-serif;
+                background: linear-gradient(to right, #74ebd5, #acb6e5);*/
+                /*display: flex;*/
+                /*justify-content: center;
+                align-items: center;
+                height: 100vh;
+                margin: 0;*/
+                font-family: Arial, sans-serif;
+                margin: 0;
+                padding: 0;
+                background-color: #f4f4f9;
+            }
+
+            .form-container {
+                /* background: #fff;
+                padding: 30px;
+                border-radius: 15px;
+                box-shadow: 0 8px 15px rgba(0, 0, 0, 0.1);
+                width: 100%;
+                max-width: 400px;*/
+                max-width: 600px;
+                margin: 40px auto;
+                padding: 20px;
+                background: #fff;
+                border-radius: 10px;
+                box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+                animation: fadeIn 1s ease;
+            }
+
+            h2 {
+                text-align: center;
+                color: #333;
+                margin-bottom: 20px;
+            }
+
+            label {
+                display: block;
+                margin-bottom: 8px;
+                font-weight: bold;
+            }
+
+            input {
+                width: 100%;
+                padding: 10px;
+                margin-bottom: 15px;
+                border: 1px solid #ccc;
+                border-radius: 5px;
+                font-size: 1rem;
+            }
+
+            button {
+                background: linear-gradient(to right, #6a11cb, #2575fc);
+                width: 100%;
+                /* background: linear-gradient(to right, #74ebd5, #acb6e5);*/
+                border: none;
+                padding: 12px;
+                border-radius: 5px;
+                font-size: 1.2rem;
+                color: #fff;
+                cursor: pointer;
+                transition: transform 0.3s ease, box-shadow 0.3s ease;
+            }
+
+                button:hover {
+                    transform: translateY(-2px);
+                    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
+                }
+
+            .error-message {
+                color: red;
+                margin-bottom: 10px;
+            }
+        </style>
+    </head>
+    <body>
+        <div class="form-container">
+            <h2>Login</h2>
+
+            @if (TempData["ErrorMessage"] != null)
+            {
+                <p class="error-message">@TempData["ErrorMessage"]</p>
+            }
+
+            @using (Html.BeginForm("Login", "Account", FormMethod.Post))
+            {
+                <div>
+                    <label for="UserID">User ID</label>
+                    <input type="text" id="UserID" name="UserID" placeholder="Enter your User ID" required />
+                </div>
+
+                <div>
+                    <label for="UserName">User Name</label>
+                    <input type="text" id="UserName" name="UserName" placeholder="Enter your User Name" required />
+                </div>
+
+                <button type="submit">Login</button>
+            }
+        </div>
+    </body>
+    </html>
+@*@{
+    Layout = null;
+}*@
+
+@*<!DOCTYPE html>
+<html>
+<head>
+    <title>Login</title>
+</head>
+<body>
+    <h2>Login</h2>
+    @if (TempData["ErrorMessage"] != null)
+    {
+        <p style="color: red;">@TempData["ErrorMessage"]</p>
+    }
+
+    @using (Html.BeginForm("Login", "Account", FormMethod.Post))
+    {
+        <label for="UserID">UserID:</label>
+        <input type="text" id="UserID" name="UserID" required />
+        <br />
+        <label for="UserName">UserName:</label>
+        <input type="text" id="UserName" name="UserName" required />
+        <br />
+        <button type="submit">Login</button>
+    }
+</body>
+</html>*@
+

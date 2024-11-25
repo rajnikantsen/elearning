@@ -91,8 +91,8 @@
             <h2>Are you sure you want to logout?</h2>
             <p>Your progress is saved, and you can log back in anytime.</p>
             <div class="logout-buttons">
-                <a href="/Home/LogoutAction" class="btn btn-danger">Logout</a>
-                <a href="/Home/Dashboard" class="btn btn-secondary">Cancel</a>
+                <a href="@Url.Action("Logoutall","Home")" class="btn btn-danger">Logout</a>
+                <a href="@Url.Action("Logout","Home")" class="btn btn-secondary">Cancel</a>
             </div>
         </div>
     </div>

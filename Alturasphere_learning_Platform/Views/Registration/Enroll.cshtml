@@ -1,0 +1,246 @@
+﻿@*@model Alturasphere_learning_Platform.Models.User
+
+    <h2>Registration</h2>
+
+    @if (TempData["ErrorMessage"] != null)
+    {
+        <p style="color: red;">@TempData["ErrorMessage"]</p>
+    }
+
+    @using (Html.BeginForm("Enroll", "Registration", FormMethod.Post))
+    {
+        <div>
+            <label>Full Name:</label>
+            @Html.TextBoxFor(m => m.FullName)
+            @Html.ValidationMessageFor(m => m.FullName)
+        </div>
+        <div>
+            <label>Email:</label>
+            @Html.TextBoxFor(m => m.Email)
+            @Html.ValidationMessageFor(m => m.Email)
+        </div>
+        <div>
+            <label>Phone:</label>
+            @Html.TextBoxFor(m => m.Phone)
+            @Html.ValidationMessageFor(m => m.Phone)
+        </div>
+        <div>
+            <label>Course:</label>
+            @Html.TextBoxFor(m => m.Course)
+            @Html.ValidationMessageFor(m => m.Course)
+        </div>
+
+        <button type="submit">Enroll Now</button>
+    }*@
+@model Alturasphere_learning_Platform.Models.User
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Registration</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" />
+    <style>
+        /* General Styles */
+        body {
+            /*font-family: 'Arial', sans-serif;
+            margin: 0;
+            padding: 0;
+            background: linear-gradient(to right, #74ebd5, #acb6e5);
+            
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            overflow: hidden;*/
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f9;
+        }
+
+        h2 {
+            text-align: center;
+            color: #333;
+            margin-bottom: 20px;
+            font-size: 2rem;
+            animation: fadeIn 1s ease-in-out;
+        }
+
+        /* Form Container */
+        .form-container {
+            /*background: #fff;
+            padding: 30px;
+            border-radius: 15px;
+            box-shadow: 0 8px 15px rgba(0, 0, 0, 0.1);
+            width: 100%;
+            max-width: 600px;
+            animation: slideIn 1s ease-in-out;*/
+            max-width: 600px;
+            margin: 40px auto;
+            padding: 20px;
+            background: #fff;
+            border-radius: 10px;
+            box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+            animation: fadeIn 1s ease;
+        }
+
+        label {
+            display: block;
+            margin-bottom: 8px;
+            font-weight: bold;
+            color: #555;
+        }
+
+        input[type="text"],
+        input[type="email"],
+        input[type="tel"],
+        select {
+            width: 100%;
+            padding: 10px;
+            margin-bottom: 15px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            font-size: 1rem;
+            transition: border 0.3s;
+        }
+
+        input:focus, select:focus {
+            border-color: #74ebd5;
+            outline: none;
+        }
+
+        button {
+            background: linear-gradient(to right, #6a11cb, #2575fc);
+            width: 100%;
+            /* background: linear-gradient(to right, #74ebd5, #acb6e5);*/
+            border: none;
+            padding: 12px;
+            border-radius: 5px;
+            font-size: 1.2rem;
+            color: #fff;
+            cursor: pointer;
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+        }
+
+        button:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
+        }
+
+        button:active {
+            transform: translateY(0);
+            box-shadow: none;
+        }
+
+        /* Error Message */
+        .error-message {
+            color: red;
+            margin-bottom: 10px;
+            font-size: 0.9rem;
+        }
+
+        /* Animations */
+        @@keyframes fadeIn {
+            from {
+                opacity: 0;
+            }
+            to {
+                opacity: 1;
+            }
+        }
+
+        @@keyframes slideIn {
+            from {
+                transform: translateY(50px);
+                opacity: 0;
+            }
+            to {
+                transform: translateY(0);
+                opacity: 1;
+            }
+        }
+        .header {
+            text-align: center;
+            padding: 20px;
+            background: linear-gradient(to right, #6a11cb, #2575fc);
+            color: white;
+        }
+
+            .header h1 {
+                font-size: 2.5em;
+                margin: 0;
+            }
+
+            .header p {
+                margin: 5px 0;
+                font-size: 1.2em;
+            }
+        .form-container h2 {
+            font-size: 1.8em;
+            margin-bottom: 10px;
+            color: #2575fc;
+            text-align: center;
+        }
+
+        .form-container p {
+            font-size: 1em;
+            margin-bottom: 20px;
+            text-align: center;
+            color: #555;
+        }
+    </style>
+</head>
+<body>
+    <header class="header">
+        <h1>Enroll in a Course</h1>
+        <p>Register now to start your learning journey!</p>
+    </header>
+    <div class="form-container">
+        <h2>Registration Form</h2>
+        <p>Fill in your details to enroll in the course.</p>
+        @*<h2>Registration</h2>*@
+
+        @if (TempData["ErrorMessage"] != null)
+        {
+            <p class="error-message">@TempData["ErrorMessage"]</p>
+        }
+
+        @using (Html.BeginForm("Enroll", "Registration", FormMethod.Post))
+        {
+            <div>
+                <label for="FullName">Full Name</label>
+                @Html.TextBoxFor(m => m.FullName, new { placeholder = "Enter your full name" })
+                @Html.ValidationMessageFor(m => m.FullName, "", new { @class = "error-message" })
+            </div>
+
+            <div>
+                <label for="Email">Email</label>
+                @Html.TextBoxFor(m => m.Email, new { placeholder = "Enter your email address" })
+                @Html.ValidationMessageFor(m => m.Email, "", new { @class = "error-message" })
+            </div>
+
+            <div>
+                <label for="Phone">Phone</label>
+                @Html.TextBoxFor(m => m.Phone, new { placeholder = "Enter your phone number" })
+                @Html.ValidationMessageFor(m => m.Phone, "", new { @class = "error-message" })
+            </div>
+
+            <div>
+                <label for="Course">Course</label>
+                @Html.DropDownListFor(m => m.Course, new SelectList(new[] {
+                    new { Value = "web-development", Text = "Web Development" },
+                    new { Value = "data-science", Text = "Data Science" },
+                    new { Value = "mobile-development", Text = "Mobile App Development" }
+                }, "Value", "Text"), "Select a course", new { @class = "form-control" })
+                @Html.ValidationMessageFor(m => m.Course, "", new { @class = "error-message" })
+            </div>
+
+            <button type="submit"><i class="fas fa-check"></i> Enroll Now</button>
+        }
+    </div>
+</body>
+</html>
+
+
+
